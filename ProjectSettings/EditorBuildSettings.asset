@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: aa9e65f51b0adb64c894d22974dd2c01
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fly Under.unity
+    guid: 80577a491c791cf4387ca40eefad126b
+  - enabled: 1
+    path: Assets/Scenes/Fly in between.unity
+    guid: 564e2ef7799b2fd4783604dc1d94e255
+  - enabled: 1
+    path: Assets/Scenes/Fly on Top.unity
+    guid: 69ada9a158666a244b27156871fa45e5
+  m_configObjects: {}
