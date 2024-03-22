@@ -1,6 +1,6 @@
 # Boost it up 🚀
 
-![boost-it-up-menu](https://imgur.com/a/eqD8JJU)
+![boost-it-up-menu]([Imgur](https://imgur.com/ukwHcgg))
 
 Are you ready for an exciting launch? Get ready to boost up the rocket using Space, A, D keys and guide it to the landing pad so it can safely reach its home planet! This game was created using Unity version 2021.3.7f1.
 
